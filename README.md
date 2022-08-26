@@ -1,10 +1,10 @@
-# [LeBryere - 3D menu](https://lebryere.github.io/3d-menu/)
+# [Gasthof Fink](https://lebryere.github.io/3d-menu/)
 
 ## Preview
 
-[![Resume Preview](https://raw.githubusercontent.com/LeBryere/gasthof-fink/master/preview.png)](https://lebryere.github.io/3d-menu/)
+[![Resume Preview](https://raw.githubusercontent.com/LeBryere/gasthof-fink/master/preview.png)](https://lebryere.github.io/gasthof-fink/)
 
-**[View Live Preview](https://lebryere.github.io/3d-menu/)**
+**[View Live Preview](https://lebryere.github.io/gasthof-fink/)**
 
 ## Status
 
@@ -19,7 +19,7 @@ After downloading, simply edit the HTML and CSS files included with `root` direc
 ### Color variables
 ```
 :root{
- --color1: #7f007e;
+   --color1: #7f007e;
 	--color2: #5d055c;
 	--color3: #330032;
 }
