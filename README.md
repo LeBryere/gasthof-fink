@@ -23,7 +23,7 @@
 After downloading, simply edit the HTML and CSS files included with `root` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
 ### Color variables
-```
+```css
 :root{
    --color1: #7f007e;
 	--color2: #5d055c;
